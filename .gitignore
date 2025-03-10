@@ -1,0 +1,10 @@
+# This .gitignore file should only allow .go, .md and directories to be committed
+# Ignore everything
+*
+# Allow directories
+!*/
+# Allow .go files
+!*.go
+# Allo .md files (for README and documents)
+!*.md
+!*.gitignore
