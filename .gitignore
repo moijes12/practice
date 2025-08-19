@@ -5,6 +5,7 @@
 !*/
 # Allow .go files
 !*.go
+!*.cpp
 # Allo .md files (for README and documents)
 !*.md
 !*.gitignore
