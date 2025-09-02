@@ -8,6 +8,7 @@
 !*.cpp
 !*.js
 !*.sql
+!*.ts
 # Allo .md files (for README and documents)
 !*.md
 !*.gitignore
